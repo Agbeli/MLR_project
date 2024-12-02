@@ -6,4 +6,4 @@
 
   - Design pipeline in addressing this problem. 
 
-- Developed MLR model to address water-quality problem at beach site: Use case hunntington beach site 
+- Developed MLR model to address water-quality problem at beach site: Use case hunntington beach site. 
