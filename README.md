@@ -9,8 +9,8 @@
 - Developed MLR model to address water-quality problem at beach site: Use case hunntington beach site. 
 
 - The source code contains the pipeline to the implementation of the model: Here are; 
-
   - Exploratory Data Analysis 
   - Feature Engineering/ transformation for following specific assumption
   - Model fitting pipeline 
   - Model Diagnostic pipeline 
+  - Future work to consider 
